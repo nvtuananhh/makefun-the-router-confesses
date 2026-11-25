@@ -6,9 +6,9 @@
 
 `main.py` writes one original funny line — a first-person confession from a home Wi-Fi router that was never really broken — to `/output/entry.txt` and prints it.
 
-> I was never broken — I just kept 'dying' so someone would finally kneel down, hold me, and beg me to come back.
+> I confess: every time the Wi-Fi 'mysteriously' died, I wasn't broken — I was just getting revenge for being unplugged in the middle of your most important meeting.
 
-111 characters, one line. Standard library only, no network, deterministic.
+163 characters, one line. Standard library only, no network, deterministic.
 
 ## Run it
 
